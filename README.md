@@ -1,4 +1,5 @@
-#BeerGen
+BeerGen
+
 I built a script for a hackathon we did last year which creates a product catalog.  It was designed to be a dataset we could use for testing the Faceted Search capability introduced in 3.4 but It seems to be a good dataset to demo Compass with.  Talking about beer, especially craft beer, especially fake craft beer with silly names seems to warm up any customer meeting.
 
 The script is written in Go and requires a bunch of libraries to be used, so It's probably not worth the hassle to try and run it yourself. However, it is in the github repo so feel free to go play.
